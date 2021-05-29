@@ -1,0 +1,16 @@
+{
+  "name": "gisellmazo",
+  "version": "2.0.2",
+  "description": "Input para agregar tu artista favorito y selecc paar seleccionar tu genero favorito, boton Gisell Mazo morado",
+  "keywords": ["gisell", "mazo"],
+  "author": {"name": "Gisell Mazo Rúa", 
+    "email": "guisell.mazo@sura-am.com", 
+    "url": "https://github.com/gisellmazo"},
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
